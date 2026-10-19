@@ -742,7 +742,7 @@ font-size: 15px;
 .whatsapp-flutuante {
     position: fixed;
     right: 24px;
-    bottom: 24px;
+    bottom: 110px; 
     z-index: 200;
     display: flex;
     align-items: center;
@@ -774,7 +774,7 @@ font-size: 15px;
 .gmail-flutuante {
     position: fixed;
     right: 25px;
-    bottom: 100px;
+    bottom: 180px;
     width: 55px;
     height: 55px;
     z-index: 1000;
