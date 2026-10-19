@@ -947,8 +947,12 @@ font-size: 15px;
         width: 54px;
         height: 54px;
         right: 16px;
-        bottom: 16px;
+         bottom: 90px;
     }
+    .gmail-flutuante {
+    right: 16px;
+    bottom: 155px;
+}
 }
 /* CELULARES PEQUENOS */
 @media (max-width: 380px) {
